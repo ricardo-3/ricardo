@@ -27,10 +27,11 @@ img {
     font-size: 15px;
     letter-spacing: 2px;   
     margin: 0;
+    margin-bottom: 16px;
 }
 
 a.profile:hover{
-    color: #000;
+    color: #6224f1;
 }
 
 .name{
@@ -38,7 +39,7 @@ a.profile:hover{
 }
 
 .motto{
-    padding: 7 30 30 30px;
+    padding: 7 30 12 30px;
     font-weight: normal;
 }
 
@@ -74,19 +75,19 @@ a {
 }
 
 a.links:hover {
-    color: #000;
-    background: #fff;
+    color: #fafafa;
+    background: #6224f1;
 }
 
 .fa_custom {
-    color: #6224f1;
+    color: #fbdd3b;
     margin-top: 60px;
     text-align: center; 
     width: 100%; 
 }
 
 a i:hover{
-    color: #fbdd3b;
+    color: #6224f1;
 }
 
 .bottom-text {
