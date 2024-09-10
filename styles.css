@@ -31,7 +31,7 @@ img {
 }
 
 a.profile:hover{
-    color: #6224f1;
+    color: #FFB200;
 }
 
 .name{
@@ -75,19 +75,20 @@ a {
 }
 
 a.links:hover {
-    color: #fafafa;
-    background: #6224f1;
+    color: #000000;
+    transition: color 0.5s;
+    background: #FFB200;
 }
 
 .fa_custom {
-    color: #fbdd3b;
+    color: #FFB200;
     margin-top: 60px;
     text-align: center; 
     width: 100%; 
 }
 
 a i:hover{
-    color: #6224f1;
+    color: #FFB200;
 }
 
 .bottom-text {
